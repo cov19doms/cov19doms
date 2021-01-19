@@ -16,7 +16,7 @@
 - gui_manual_classification
 
 ---
-### directory
+### directory - main contains
 ```
 .
 ├── data
