@@ -4,9 +4,11 @@
 
 
 ## gui_systematic_classification
-- usage: `python main.py` in `gui_systematic_classification` directory
+- useful tool for systematic classification
+- usage: `python main.py` (in `gui_systematic_classification` directory)
 - requirements are in `requirements.txt`
 
 ## gui_manual_classification
-- usage: `python main.py` in `gui_manual_classification` directory
+- useful tool for manual classification
+- usage: `python main.py` (in `gui_manual_classification` directory)
 - requirements are in `requirements.txt`
