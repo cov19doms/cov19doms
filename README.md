@@ -1,4 +1,4 @@
-### Cov19doms
+## Cov19doms
 - Cov19doms: domain names related to COVID-19
 - This repository contains...
   - detail data
