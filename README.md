@@ -1,16 +1,49 @@
-### Hi there 👋
+### Cov19doms
+- Cov19doms: domain names related to COVID-19
+- This repository contains...
+  - detail data
+  - labeling tools
 
-<!--
-**cov19doms/cov19doms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### data
+- Cov19doms.csv
+- Cov19doms_whois_after_20191227
+- Cov19doms_whois_after_20191227_A_record_OK
+- Cov19doms_whois_after_20191227_A_record_OK_screenshot_OK
 
-Here are some ideas to get you started:
+### tools
+- gui_systematic_classification
+- gui_manual_classification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### directory
+```
+.
+├── data
+│   ├── 10k_label.csv
+│   ├── 1k_evaluators_label.csv
+│   ├── Cov19doms.csv
+│   ├── Cov19doms_whois_after_20191227.csv
+│   ├── Cov19doms_whois_after_20191227_A_record_OK.csv
+│   └── Cov19doms_whois_after_20191227_A_record_OK_screenshot_OK.csv
+└── tools
+    ├── gui_manual_classification
+    │   ├── config.json
+    │   ├── data
+    │   ├── downloads
+    │   ├── font
+    │   ├── main.py
+    │   └── requirements.txt
+    └── gui_systematic_classification
+        ├── config.json
+        ├── downloads
+        ├── gray.png
+        ├── loading.gif
+        ├── main.py
+        ├── old_tag
+        ├── p_hash_group_data.pkl
+        ├── requirements.txt
+        ├── sample_10000.pkl
+        └── tag_dict.pkl
+```
+
