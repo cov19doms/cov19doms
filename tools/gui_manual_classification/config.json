@@ -1,0 +1,5 @@
+{
+    "sample": "aa",
+    "scale_f": 0.4,
+    "tag_data_extra": ["index_of", "login", "medical", "medical_goods", "sale_goods", "sale_goods", "cleaning", "map&dashboard", "app", "info&share", "donation", "fight_with", "social_security", "money", "business", "lawyer", "else(covid)", "else(not covid)"]
+}
