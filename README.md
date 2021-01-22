@@ -29,18 +29,18 @@
 └── tools
     ├── gui_manual_classification
     │   ├── config.json
-    │   ├── data
-    │   ├── downloads
-    │   ├── font
-    │   ├── main.py
+    │   ├── data/
+    │   ├── downloads/
+    │   ├── font/
+    │   ├── main.py
     │   └── requirements.txt
     └── gui_systematic_classification
         ├── config.json
-        ├── downloads
+        ├── downloads/
         ├── gray.png
         ├── loading.gif
         ├── main.py
-        ├── old_tag
+        ├── old_tag/
         ├── p_hash_group_data.pkl
         ├── requirements.txt
         ├── sample_10000.pkl
